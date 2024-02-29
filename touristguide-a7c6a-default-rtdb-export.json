@@ -1,0 +1,54 @@
+{
+  "busstation" : {
+    "vijayawada" : [ null, {
+      "discription" : "Address: NH65, Arrival Block,Pandit Nehru Bus Stop, Krishnalanka, Vijayawada, Andhra Pradesh 520001",
+      "image" : "https://www.amaravativoice.com/images/vijayawada-busstand-entrance.jpg",
+      "name" : "Pandit Nehru Bus Station"
+    } ]
+  },
+  "citynames" : [ null, {
+    "cityname" : "vijayawada"
+  }, {
+    "cityname" : "hyderabad"
+  }, {
+    "cityname" : "delhi"
+  }, {
+    "cityname" : "kolkata"
+  } ],
+  "famousplaces" : {
+    "vijayawada" : [ null, {
+      "discription" : "The ruins of Kondapalli Fort, also known as Kondapalli Kota, offer a throwback into the medieval glory of Vijayawada. Tucked away in a hilly area, the fort is a serene spot where one can spend hours exploring its ramparts.",
+      "image" : "https://www.fabhotels.com/blog/wp-content/uploads/2019/03/Kondapalli-Fort.jpg",
+      "name" : "Kondapalli Fort"
+    } ]
+  },
+  "history" : {
+    "vijayawada" : [ null, {
+      "discription" : "Vijayawada is considered to be a sacred place for residing one of the most visited and famous temples of Andhra Pradesh and India, Kanaka Durga Temple of Hindu Goddess Durga. It also serves as the ritual host of Pushkaram (a river worshipping ritual in India) of River Krishna.",
+      "image" : "https://www.thenewsminute.com/sites/default/files/styles/slideshow_image_size/public/Vijayawada_aerial_shot_screengrab_1200x800.jpg?itok=JhijsMN2",
+      "name" : "Vijayawada"
+    } ]
+  },
+  "hotelrooms" : {
+    "vijayawada" : [ null, {
+      "discription" : "Address: MG Rd, Behind Kalanikethan, Mogalrajapuram, Sidhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010 \n Phone: 0866 667 8888",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/touristguide-a7c6a.appspot.com/o/hotel_images%2Fvijayawada%2Fminevera.jpg?alt=media&token=c5997aec-9a4d-4ed4-ac8d-d6eff9fd539b",
+      "name" : "Hotel minerva"
+    }, {
+      "discription" : "Address: near Benz Circle, Bharathi Nagar, Vijayawada, Andhra Pradesh 520008\n Phone: 0866 668 8999",
+      "image" : "https://firebasestorage.googleapis.com/v0/b/touristguide-a7c6a.appspot.com/o/hotel_images%2Fvijayawada%2Fnovotel.jpg?alt=media&token=17b8d843-347a-4681-9881-f8760d5bf026",
+      "name" : "Novotel"
+    } ]
+  },
+  "restaurants" : {
+    "vijayawada" : [ null, {
+      "discription" : "100 Ft Road, Mg Road, Opposite D V Manor Hotel Adhikari Complex, Vijayawada 520007 India \n+917607729856",
+      "image" : "https://media-cdn.tripadvisor.com/media/photo-p/14/96/ae/f6/sweet-magic.jpg",
+      "name" : "Sweet Magic"
+    }, {
+      "discription" : "A D Santhi Nagar First Lane No 36-11-7 1st Left Lane after Jammichettu towards Mogul Hall, Vijayawada 520010 India  \n +91 70950 04567",
+      "image" : "https://media-cdn.tripadvisor.com/media/photo-s/0d/70/95/c4/tfl.jpg",
+      "name" : "TFL"
+    } ]
+  }
+}
